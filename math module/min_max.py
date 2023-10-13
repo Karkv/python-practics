@@ -1,0 +1,8 @@
+x=min(5,10,2)
+x2=max(45,5,6,61)
+y=abs(-55)
+c=pow(3,4)
+print(x)
+print(x2)
+print(y)
+print(c)

@@ -1,0 +1,5 @@
+Hello ! Welcome to demofile.text
+this file is for testing purpose
+
+Good luck!
+The average salary of entry-level Python developer salary in India is ₹427,293. The average salary of a mid-level Python developer salary in India is ₹909,818.
